@@ -11,3 +11,4 @@ Completed Stories:
 <li>Allow user to remove an item by long clicking on the list view entry</li>
 <li>Persist data </li>
 </ul>
+<img src="todolist.gif" />
